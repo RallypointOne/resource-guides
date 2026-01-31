@@ -9,7 +9,7 @@ permalink: /
 # Rallypoint One Resource Guides
 {: .fs-9 }
 
-Technical publications, research papers, and resource guides supporting our work in advanced simulation and modeling, visualization and scientific computing for decision support and government applications.
+Technical publications, research papers, and resource guides supporting our work in advanced simulation and modeling, visualization and scientific computing for decision support applications.
 {: .fs-6 .fw-300 }
 
 ---
