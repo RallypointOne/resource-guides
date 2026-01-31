@@ -1,0 +1,214 @@
+/* Custom styles for Rallypoint One Resource Guides */
+
+/* Logo sizing */
+.site-logo img {
+  max-height: 50px;
+  width: auto;
+}
+
+/* Footnote hover tooltips */
+.footnote {
+  position: relative;
+  cursor: pointer;
+  color: #c23a2b;
+  text-decoration: none;
+  border-bottom: 1px dotted #c23a2b;
+}
+
+.footnote:hover {
+  color: #4a4a4a;
+}
+
+.footnote-tooltip {
+  position: absolute;
+  bottom: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #4a4a4a;
+  color: white;
+  padding: 12px 16px;
+  border-radius: 6px;
+  font-size: 0.85rem;
+  line-height: 1.5;
+  max-width: 400px;
+  min-width: 250px;
+  z-index: 1000;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.2s, visibility 0.2s;
+  white-space: normal;
+  text-align: left;
+}
+
+.footnote-tooltip::after {
+  content: '';
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  border: 8px solid transparent;
+  border-top-color: #4a4a4a;
+}
+
+.footnote:hover .footnote-tooltip,
+.footnote:focus .footnote-tooltip {
+  opacity: 1;
+  visibility: visible;
+}
+
+/* Footnote tooltip link styling */
+.footnote-tooltip a {
+  color: #ffcccc;
+  text-decoration: underline;
+}
+
+.footnote-tooltip a:hover {
+  color: white;
+}
+
+/* Table styling */
+table {
+  width: 100%;
+  margin: 1.5rem 0;
+  border-collapse: collapse;
+}
+
+th {
+  background: #4a4a4a;
+  color: white;
+  padding: 12px 16px;
+  text-align: left;
+  font-weight: 600;
+}
+
+td {
+  padding: 10px 16px;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+tr:hover {
+  background: #f9f9f9;
+}
+
+/* Sticky table of contents */
+.main-content-wrap {
+  display: flex;
+}
+
+/* Right sidebar TOC */
+.toc-wrapper {
+  position: sticky;
+  top: 80px;
+  max-height: calc(100vh - 100px);
+  overflow-y: auto;
+  padding-left: 2rem;
+  min-width: 220px;
+  font-size: 0.875rem;
+}
+
+.toc-wrapper ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.toc-wrapper li {
+  margin: 0.5rem 0;
+}
+
+.toc-wrapper a {
+  color: #6b6b6b;
+  text-decoration: none;
+  display: block;
+  padding: 4px 0;
+  border-left: 2px solid transparent;
+  padding-left: 12px;
+  transition: all 0.2s;
+}
+
+.toc-wrapper a:hover,
+.toc-wrapper a.active {
+  color: #c23a2b;
+  border-left-color: #c23a2b;
+}
+
+.toc-wrapper .toc-h3 {
+  padding-left: 24px;
+  font-size: 0.8rem;
+}
+
+/* Section spacing */
+h2 {
+  margin-top: 3rem;
+  padding-top: 1rem;
+  border-top: 1px solid #e0e0e0;
+}
+
+h2:first-of-type {
+  border-top: none;
+  margin-top: 0;
+}
+
+h3 {
+  margin-top: 2rem;
+  color: #c23a2b;
+}
+
+/* Blockquote styling */
+blockquote {
+  border-left: 4px solid #c23a2b;
+  background: #f9f9f9;
+  padding: 1rem 1.5rem;
+  margin: 1.5rem 0;
+  font-style: italic;
+}
+
+/* Print styles */
+@media print {
+  .footnote-tooltip {
+    display: none;
+  }
+  
+  .site-nav, .toc-wrapper {
+    display: none;
+  }
+}
+
+/* Mobile responsiveness */
+@media (max-width: 1000px) {
+  .toc-wrapper {
+    display: none;
+  }
+}
+
+/* References section */
+.footnotes {
+  margin-top: 3rem;
+  padding-top: 2rem;
+  border-top: 2px solid #4a4a4a;
+  font-size: 0.9rem;
+}
+
+.footnotes ol {
+  padding-left: 1.5rem;
+}
+
+.footnotes li {
+  margin-bottom: 0.75rem;
+  color: #6b6b6b;
+}
+
+.footnotes a {
+  word-break: break-all;
+}
+
+/* Back to top button */
+#back-to-top {
+  background: #c23a2b;
+  color: white;
+}
+
+#back-to-top:hover {
+  background: #a32f23;
+}
