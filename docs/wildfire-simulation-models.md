@@ -7,7 +7,7 @@ has_toc: true
 ---
 
 # Wildfire Simulation Models Catalog
-## Companion to "Current State of Wildfire Modeling: A Comprehensive Survey"
+### Companion to "Current State of Wildfire Modeling: A Comprehensive Survey"
 {: .fs-8 .fw-500 }
 
 ---
