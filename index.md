@@ -9,7 +9,7 @@ permalink: /
 # Rallypoint One Resource Guides
 {: .fs-9 }
 
-Technical publications, research surveys, and resource guides supporting advanced scientific computing for defense and environmental applications.
+Technical publications, research papers, and resource guides supporting our work in advanced simulation and modeling, visualization and scientific computing for decision support and government applications.
 {: .fs-6 .fw-300 }
 
 ---
@@ -39,7 +39,7 @@ Rallypoint One LLC develops advanced scientific computing solutions with experti
 
 ## Contact
 
-For questions about our research or collaboration opportunities, visit [rallypointone.com](https://rallypointone.com).
+For questions about our research or collaboration opportunities, visit [rallypoint1.com](https://rallypoint1.com).
 
 ---
 
