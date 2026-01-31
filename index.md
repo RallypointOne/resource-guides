@@ -9,14 +9,14 @@ permalink: /
 # Rallypoint One Resource Guides
 {: .fs-9 }
 
-Technical publications, research surveys, and resource guides supporting advanced scientific computing for defense and environmental applications.
+Technical publications, articles, and resource guides supporting in simulation and modeling and advanced scientific computing for defense and environmental applications.
 {: .fs-6 .fw-300 }
 
 ---
 
 ## About These Publications
 
-Rallypoint One LLC develops advanced scientific computing solutions for government programs, with expertise in physics-informed machine learning, environmental modeling, and digital twin systems. These resource guides represent our technical research and analysis supporting SBIR/STTR programs and NSF ASCEND Engine initiatives.
+Rallypoint One LLC develops advanced scientific computing solutions for government programs, with expertise in physics-informed machine learning, environmental modeling, and digital twin systems. These resource guides represent our technical research and analysis supporting SBIR/STTR programs, NSF ASCEND Engine and other research initiatives.
 
 ## Available Guides
 
@@ -30,8 +30,8 @@ Rallypoint One LLC develops advanced scientific computing solutions for governme
 
 ## Contact
 
-For questions about our research or collaboration opportunities, visit [rallypointone.com](https://rallypointone.com).
+For questions about our research or collaboration opportunities, visit [rallypoint1.com](https://rallypoint1.com).
 
 ---
 
-© 2025 Rallypoint One LLC. All rights reserved.
+© 2026 Rallypoint One LLC. All rights reserved.
