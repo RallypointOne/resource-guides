@@ -43,4 +43,4 @@ For questions about our research or collaboration opportunities, visit [rallypoi
 
 ---
 
-<small>&copy; 2025 Rallypoint One LLC. All rights reserved.</small>
+<small>&copy; 2026 Rallypoint One LLC. All rights reserved.</small>
