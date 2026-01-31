@@ -1,9 +1,3 @@
----
-title: Current State of Wildfire Modeling
-layout: default
-parent: Home
----
-
 
 # Current State of Wildfire Modeling: 
 ## A Comprehensive Survey of Capabilities, Limitations, Data Requirements, and Recommendations for Future Investments
