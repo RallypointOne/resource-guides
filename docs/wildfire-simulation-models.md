@@ -85,7 +85,7 @@ Each entry includes: category tag; origin; simulation methodology; capabilities;
 ---
 
 ### BEHAVE (original system)
-{: .text-grey-dk-100 }
+
 **Category:** Empirical – legacy
 {: .fs-3 }
 
@@ -121,7 +121,7 @@ Superseded operationally but important as a historical and conceptual ancestor.
 ---
 
 ### BehavePlus
-{: .text-grey-dk-100 }
+
 **Category:** Empirical
 {: .fs-3 }
 
@@ -144,7 +144,7 @@ Closed‑source Windows application using the documented equations; relies on us
 ---
 
 ### Canadian Forest Fire Behavior Prediction (FBP) System
-{: .text-grey-dk-100 }
+
 **Category:** Empirical
 {: .fs-3 }
 
@@ -180,7 +180,7 @@ Remains a core component of Canadian fire behavior prediction and is widely inte
 ---
 
 ### Cell2Fire
-{: .text-grey-dk-100 }
+
 **Category:** Front‑propagation
 {: .fs-3 }
 
@@ -216,7 +216,7 @@ Primarily a research and decision‑support tool; used in FireSmart and tactical
 ---
 
 ### Data‑Driven / "Next‑Day" Wildfire Spread Models
-{: .text-grey-dk-100 }
+
 **Category:** ML / Hybrid family
 {: .fs-3 }
 
@@ -253,7 +253,7 @@ Mostly research prototypes and case‑study tools; agencies are beginning to exp
 ---
 
 ### ELMFIRE (Eulerian Level‑Set Model of FIRE Spread)
-{: .text-grey-dk-100 }
+
 **Category:** Front‑propagation
 {: .fs-3 }
 
@@ -289,7 +289,7 @@ Operational prototype in systems like ALERTWildfire (CA/NV/OR); illustrative of 
 ---
 
 ### FARSITE (Fire Area Simulator)
-{: .text-grey-dk-100 }
+
 **Category:** Front‑propagation
 {: .fs-3 }
 
@@ -325,7 +325,7 @@ Widely used and integrated into WFDSS and IFTDSS; primary U.S. empirical/semi‑
 ---
 
 ### FIRETEC
-{: .text-grey-dk-100 }
+
 **Category:** CFD / coupled fire–atmosphere
 {: .fs-3 }
 
@@ -361,7 +361,7 @@ Research‑only, used to generate high‑fidelity datasets and understanding; no
 ---
 
 ### FlamMap
-{: .text-grey-dk-100 }
+
 **Category:** Empirical
 {: .fs-3 }
 
@@ -397,7 +397,7 @@ Widely used for strategic planning, fuel treatment design, and long‑term risk 
 ---
 
 ### FSPro (Fire Spread Probability)
-{: .text-grey-dk-100 }
+
 **Category:** Front‑propagation / Probabilistic
 {: .fs-3 }
 
@@ -433,7 +433,7 @@ Established part of WFDSS, used broadly for strategic planning and risk assessme
 ---
 
 ### PHOENIX RapidFire
-{: .text-grey-dk-100 }
+}
 **Category:** Front‑propagation / enhanced spotting & WUI
 {: .fs-3 }
 
@@ -469,7 +469,7 @@ Used operationally in several Australian jurisdictions for prediction, warnings,
 ---
 
 ### Prometheus (Canadian Wildland Fire Growth Simulation Model)
-{: .text-grey-dk-100 }
+
 **Category:** Front‑propagation
 {: .fs-3 }
 
@@ -505,7 +505,7 @@ Primary operational simulator for Canadian agencies; widely used in planning and
 ---
 
 ### QUIC‑Fire
-{: .text-grey-dk-100 }
+
 **Category:** Fast CFD / coupled fire–atmosphere
 {: .fs-3 }
 
@@ -541,7 +541,7 @@ Research and advanced planning tool; candidate for prescribed‑fire simulators 
 ---
 
 ### Spark / Spark Operational
-{: .text-grey-dk-100 }
+
 **Category:** Front‑propagation framework
 {: .fs-3 }
 
@@ -577,7 +577,7 @@ Adopted as Australia's national bushfire simulation capability, integrated into 
 ---
 
 ### Technosylva Wildfire Analyst (WFA)
-{: .text-grey-dk-100 }
+
 **Category:** Front‑propagation / operational platform
 {: .fs-3 }
 
@@ -613,7 +613,7 @@ Widely used by major U.S. utilities and agencies for risk forecasting, PSPS anal
 ---
 
 ### WFDS / FDS (WUI Fire Dynamics Simulator)
-{: .text-grey-dk-100 }
+
 **Category:** CFD / WUI
 {: .fs-3 }
 
@@ -649,7 +649,7 @@ Used in engineering and post‑fire analysis, not in real‑time operations; key
 ---
 
 ### WRF‑Fire / WRF‑SFIRE
-{: .text-grey-dk-100 }
+
 **Category:** Coupled atmosphere–fire
 {: .fs-3 }
 
