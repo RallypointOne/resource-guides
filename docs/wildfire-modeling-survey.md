@@ -4,6 +4,7 @@ title: Current State of Wildfire Modeling
 nav_order: 4
 description: "Comprehensive survey of wildfire modeling capabilities, limitations, data requirements, and recommendations for future investments"
 has_toc: true
+parent: Home
 ---
 # Current State of Wildfire Modeling: 
 ## A Comprehensive Survey of Capabilities, Limitations, Data Requirements, and Recommendations for Future Investments
