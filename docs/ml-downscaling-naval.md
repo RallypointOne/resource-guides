@@ -7,7 +7,8 @@ parent: Home
 has_toc: true
 ---
 
-# Survey of Machine Learning Downscaling Architectures for High-Resolution Environmental Forecasting in Naval Operations
+# Survey of Machine Learning Downscaling Architectures
+## High-Resolution Environmental Forecasting in Naval Operations
 {: .fs-8 .fw-500 }
 
 Technical Assessment for SBIR N252-105
