@@ -25,6 +25,7 @@ Rallypoint One LLC develops advanced scientific computing solutions for governme
 | Guide | Description | Program |
 |:------|:------------|:--------|
 | [ML Downscaling for Naval Operations](docs/ml-downscaling-naval.html) | Survey of machine learning architectures for high-resolution environmental forecasting | Navy SBIR N252-105 |
+| [Current State of Wildfire Modeling](docs/wildfire-modeling-survey.html) | Comprehensive survey of wildfire modeling capabilities, limitations, data requirements, and investment recommendations | NSF CO-WY Engine ASCEND |
 
 ---
 
