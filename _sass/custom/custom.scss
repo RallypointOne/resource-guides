@@ -212,3 +212,11 @@ blockquote {
 #back-to-top:hover {
   background: #a32f23;
 }
+/* Add brackets around footnote references */
+a[role="doc-noteref"]::before {
+  content: "[";
+}
+
+a[role="doc-noteref"]::after {
+  content: "]";
+}
