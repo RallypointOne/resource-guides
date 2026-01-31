@@ -6,7 +6,7 @@ description: "Technical publications and research from Rallypoint One LLC"
 permalink: /
 ---
 
-# Rallypoint One Resource Guides
+# Rallypoint One Technical Resources
 {: .fs-9 }
 
 Technical publications, articles, and resource guides supporting in simulation and modeling and advanced scientific computing for defense and environmental applications.
