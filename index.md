@@ -18,23 +18,22 @@ Technical publications, research surveys, and resource guides supporting advance
 
 Rallypoint One LLC develops advanced scientific computing solutions for government programs, with expertise in physics-informed machine learning, environmental modeling, and digital twin systems. These resource guides represent our technical research and analysis supporting SBIR/STTR programs and NSF ASCEND Engine initiatives.
 
-## Available Guides
+---
 
-<div class="guide-list">
+## Available Guides
 
 ### Environmental Forecasting & ML Downscaling
 
 | Guide | Description | Program |
 |:------|:------------|:--------|
-| [ML Downscaling for Naval Operations]({% link docs/ml-downscaling-naval.md %}) | Survey of machine learning architectures for high-resolution environmental forecasting | Navy SBIR N252-105 |
+| [ML Downscaling for Naval Operations](/resource-guides/docs/ml-downscaling-naval.html) | Survey of machine learning architectures for high-resolution environmental forecasting | Navy SBIR N252-105 |
 
 ### Wildfire Modeling & Simulation
 
 | Guide | Description | Program |
 |:------|:------------|:--------|
-| [Wildfire Simulation Models Catalog]({% link docs/wildfire-simulation-models.md %}) | Technical catalog of current wildfire simulation models covering empirical, physics-based, and ML approaches | NSF ASCEND / HEATMAPS |
-
-</div>
+| [Current State of Wildfire Modeling](/resource-guides/docs/wildfire-modeling-survey.html) | Comprehensive survey of capabilities, limitations, data requirements, and recommendations | NSF ASCEND / CO-WY Engine |
+| [Wildfire Simulation Models Catalog](/resource-guides/docs/wildfire-simulation-models.html) | Technical catalog of current wildfire simulation models covering empirical, physics-based, and ML approaches | NSF ASCEND / HEATMAPS |
 
 ---
 
