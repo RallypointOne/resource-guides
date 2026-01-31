@@ -7,10 +7,10 @@ parent: Home
 has_toc: true
 ---
 
-# High-Resolution Environmental Forecasting in Naval Operations 
-## A Survey Machine Learning Downscaling Architectures
+# High-Resolution Environmental Forecasting  
+## A Survey of Machine Learning Downscaling Architectures 
 
-Technical Assessment for SBIR N252-105
+Prepared by RallyPoint One LLC in support of phase 1 feasibility study for Navy SBIR N252-105: Machine Learning Downscaling Capability for Environmental Forecasts
 
 ---
 
