@@ -1,2 +1,16 @@
 <!-- Custom scripts for Rallypoint One Resource Guides -->
 <script src="{{ '/assets/js/footnotes.js' | relative_url }}" defer></script>
+
+<!-- Make all external links open in new tabs -->
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  // Target all links in the main content area
+  document.querySelectorAll('a[href^="http"]').forEach(function(link) {
+    // Only external links (not your own domain)
+    if (!link.href.includes('rallypointone.github.io')) {
+      link.setAttribute('target', '_blank');
+      link.setAttribute('rel', 'noopener noreferrer');
+    }
+  });
+});
+</script>
