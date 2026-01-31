@@ -11,7 +11,6 @@ has_toc: true
 ## A Survey Machine Learning Downscaling Architectures
 
 Technical Assessment for SBIR N252-105
-{: .fs-5 .fw-300 .text-grey-dk-100 }
 
 ---
 
