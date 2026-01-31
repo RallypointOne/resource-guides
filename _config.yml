@@ -82,3 +82,6 @@ exclude:
   - Gemfile.lock
   - node_modules
   - vendor
+# In _config.yml
+sass:
+  sass_dir: _sass
