@@ -16,7 +16,7 @@ Technical publications, research surveys, and resource guides supporting advance
 
 ## About These Publications
 
-Rallypoint One LLC develops advanced scientific computing solutions for government programs, with expertise in physics-informed machine learning, environmental modeling, and digital twin systems. These resource guides represent our technical research and analysis supporting SBIR/STTR programs and NSF ASCEND Engine initiatives.
+Rallypoint One LLC develops advanced scientific computing solutions with expertise in physics-informed machine learning, environmental modeling, and digital twin systems. These resource guides represent our technical research and analysis supporting SBIR/STTR programs and NSF ASCEND Engine initiatives.
 
 ---
 
