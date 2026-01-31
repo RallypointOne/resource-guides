@@ -5,7 +5,8 @@ parent: Home
 ---
 
 
-# Current State of Wildfire Modeling: A Comprehensive Survey of Capabilities, Limitations, Data Requirements, and Recommendations for Future Investments
+# Current State of Wildfire Modeling: 
+## A Comprehensive Survey of Capabilities, Limitations, Data Requirements, and Recommendations for Future Investments
 
 Prepared by RallyPoint One LLC  
 Supporting the NSF CO–WY Engine ASCEND Climate Resilience Initiative
