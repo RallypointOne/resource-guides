@@ -20,15 +20,11 @@ Rallypoint One LLC develops advanced scientific computing solutions for governme
 
 ## Available Guides
 
-<div class="guide-list">
-
 ### Environmental Forecasting & ML Downscaling
 
 | Guide | Description | Program |
 |:------|:------------|:--------|
-| [ML Downscaling for Naval Operations]({% link docs/ml-downscaling-naval.md %}) | Survey of machine learning architectures for high-resolution environmental forecasting | Navy SBIR N252-105 |
-
-</div>
+| [ML Downscaling for Naval Operations](docs/ml-downscaling-naval.html) | Survey of machine learning architectures for high-resolution environmental forecasting | Navy SBIR N252-105 |
 
 ---
 
@@ -38,4 +34,4 @@ For questions about our research or collaboration opportunities, visit [rallypoi
 
 ---
 
-<small>&copy; 2025 Rallypoint One LLC. All rights reserved.</small>
+© 2025 Rallypoint One LLC. All rights reserved.
