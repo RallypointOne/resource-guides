@@ -6,11 +6,9 @@ description: "Technical catalog of current wildfire simulation models covering e
 has_toc: true
 ---
 
-# Current Wildfire Simulation Models: A Technical Catalog
+# Wildfire Simulation Models Catalog
+## Companion to "Current State of Wildfire Modeling: A Comprehensive Survey"
 {: .fs-8 .fw-500 }
-
-Companion to "Current State of Wildfire Modeling: A Comprehensive Survey"
-{: .fs-5 .fw-300 .text-grey-dk-100 }
 
 ---
 
