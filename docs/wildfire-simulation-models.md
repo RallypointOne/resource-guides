@@ -4,6 +4,7 @@ title: Wildfire Simulation Models Catalog
 nav_order: 3
 description: "Technical catalog of current wildfire simulation models covering empirical, physics-based, and ML approaches"
 has_toc: true
+parent: Home
 ---
 
 # Wildfire Simulation Models Catalog
